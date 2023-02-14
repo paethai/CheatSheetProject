@@ -1,0 +1,15 @@
+*{
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1{
+    color: cornflowerblue;
+    text-align: center
+}
+h2{
+    color: plum;
+    text-align: center
+}
+table{
+    margin: auto;
+}
