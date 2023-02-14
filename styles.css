@@ -8,8 +8,16 @@ h1{
 }
 h2{
     color: plum;
-    text-align: center
+    text-align: center;
 }
 table{
     margin: auto;
+    border: 1px solid pink;
+    width: 1000px;
+}
+th{
+    background-color: blueviolet;
+}
+td{
+  border: 0.5px solid pink;
 }
